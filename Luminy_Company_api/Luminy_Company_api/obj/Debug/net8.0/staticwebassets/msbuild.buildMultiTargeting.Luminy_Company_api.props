@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Luminy_Company_api.props" />
+</Project>

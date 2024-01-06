@@ -1,0 +1,13 @@
+.actions {
+  display: flex;
+  flex-direction: column;
+}
+
+.h1{
+  color:rgb(122, 185, 240)
+}
+
+.table tr td{
+  background-color: black;
+  color: rgb(61, 78, 93);
+}
